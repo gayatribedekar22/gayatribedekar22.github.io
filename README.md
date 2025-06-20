@@ -1,2 +1,4 @@
 # gayatribedekar22.github.io
-#portfolio 
+#portfolio
+projects
+internship
