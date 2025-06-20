@@ -1,4 +1,4 @@
-# gayatribedekar22.github.io
+# Software Engineer
 # portfolio
 ### projects
 ### internship
